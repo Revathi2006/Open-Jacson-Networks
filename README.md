@@ -1,5 +1,5 @@
 # Series Queues with infinite capacity - Open Jackson Network
-Ex.No: 5
+Ex.No: 6
 
 Date : 
 
